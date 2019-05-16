@@ -1,0 +1,1 @@
+This folder will contain the photos that we upload in registration form
